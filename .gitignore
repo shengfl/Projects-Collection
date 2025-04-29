@@ -1,0 +1,10 @@
+/.ipynb_checkpoints/
+/1.JupyterNotes/
+/images/
+/data/
+/model_pkl/
+/pytorch_tb/
+/runs/
+*~
+.DS_Store
+/cache/
